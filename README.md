@@ -5,3 +5,6 @@ Commit I
 Commit II  
 Commit III  
 I want to merge to master  
+Rebase I  
+Rebase II  
+Rebase III 
