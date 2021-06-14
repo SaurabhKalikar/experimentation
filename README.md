@@ -14,3 +14,5 @@ Rebase III
 Rebase IV 
 Rebase V 
 Rebase VI 
+Check delete
+commit 1
